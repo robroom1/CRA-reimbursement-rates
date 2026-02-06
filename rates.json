@@ -4,6 +4,7 @@
     "source": "CRA",
     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances.html",
     "years": {
+      "2026": { "first_5000": 0.73, "additional": 0.67 },
       "2025": { "first_5000": 0.72, "additional": 0.66 },
       "2024": { "first_5000": 0.70, "additional": 0.64 },
       "2023": { "first_5000": 0.68, "additional": 0.62 },
@@ -14,8 +15,9 @@
   "united_states": {
     "unit": "miles",
     "source": "IRS",
-    "url": "https://www.irs.gov/newsroom/irs-increases-the-standard-mileage-rate-for-business-use-in-2025-key-rate-increases-3-cents-to-70-cents-per-mile",
+    "url": "https://www.irs.gov/newsroom/irs-sets-2026-business-standard-mileage-rate-at-725-cents-per-mile-up-25-cents",
     "years": {
+      "2026": { "business": 0.725, "medical": 0.205, "charity": 0.14},
       "2025": { "business": 0.70, "medical": 0.21, "charity": 0.14},
       "2024": { "business": 0.67, "medical": 0.21, "charity": 0.14},
       "2023": { "business": 0.655, "medical": 0.22, "charity": 0.14}
